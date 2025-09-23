@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Fuel Cells"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "fbc0e219-bf98-ad34-1799-8ec0484b2200",
+      "9d8e2582-f6d1-a0e1-261a-553fa8899d6b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "89371595-78af-4302-a8c5-484dc38490f8",
+    "website": "electrochemical-energy-systems"
+  },
+  "course_title": "Electrochemical Energy Systems",
+  "course_description": "This course introduces electrochemical energy systems from the perspective of thermodynamics, kinetics, and transport. It surveys analysis and design of electrochemical reactions and processes by integrating chemical engineering fundamentals with knowledge from diverse fields, including chemistry, electrical engineering, and materials science. It also includes applications to fuel cells, electrolyzers, and batteries. Students taking graduate version complete additional assignments.",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "10.426",
+  "primary_course_number": "10.626",
+  "course_image_thumbnail": {
+    "content": "9b09e8d0-13a6-4369-89ba-63b5fa733045",
+    "website": "electrochemical-energy-systems"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "fc4bc758-b3d8-45fc-8047-9fe74c1e69a4",
+  "site_short_id": "10.426-10.626-spring-2022",
+  "site_url_path": "courses/10-426-10-626-electrochemical-energy-systems-spring-2022"
+}
