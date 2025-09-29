@@ -8,19 +8,19 @@ uid: 94586b1d-1125-4edb-a5ef-bbc9b317c6b9
 ---
 Required readings will include selected lecture notes from previous semesters of the course, as well as research articles, assigned throughout the semester and chapters from the following textbooks:
 
-- Previous {{% resource_link "6d3831cd-b800-429b-b448-e7768a2da77c" "10.426/10.626 lecture notes" %}}: ***#*** 2014; **#** 2011; **{#}** 2012; (#) 2009
+- Previous [10.426/10.626 lecture notes](https://ocw.mit.edu/courses/10-626-electrochemical-energy-systems-spring-2014/pages/lecture-notes/): ***#*** 2014; **#** 2011; **{#}** 2012; (#) 2009
 - Book chapters:
-    - \[N#\] Newman, John, and Karen E. Thomas-Alyea. *Electrochemical Systems*. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with {{% resource_link "407fd8c5-111e-4912-9bf3-4329c8907dd8" "Google Books" %}}\]
+    - \[N#\] Newman, John, and Karen E. Thomas-Alyea. *Electrochemical Systems*. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
     - \[B#\] Bard, Allen J., and Larry R. Faulkner. *Electrochemical Methods: Fundamentals and Applications*. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
-    - \[O#\] O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2009. ISBN: 9780470258439. \[Preview with {{% resource_link "cf74f47e-aefd-47c5-8735-96358bddabd2" "Google Books" %}}\]
+    - \[O#\] O’ Hayre, Ryan, Suk-Won Cha, et al. *Fuel Cell Fundamentals*. 2nd ed. Wiley, 2009. ISBN: 9780470258439. \[Preview with [Google Books](https://www.google.com/books/edition/Fuel_Cell_Fundamentals/O2JYCwAAQBAJ?hl=en&gbpv=1&pg=PR1&printsec=frontcover)\]
 - Papers:
-    - \[1\] Bazant, M. Z., “{{% resource_link "a1ac52c9-75d7-4bb6-9a1d-70d2d665d32f" "Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics" %}}.” *Accounts of Chemical Research* 46, no. 5 (2013).
+    - \[1\] Bazant, M. Z., “[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c).” *Accounts of Chemical Research* 46, no. 5 (2013).
     - \[2\] Bazant, M. Z., “Thermodynamics of Driven Open Systems and Control of Phase Separation by Electro-Autocatalysis.” *Faraday Discussions* 199 (2017).
     - \[3\] Fraggedakis, D., Martin Z. Bazant, et al, “Theory of Coupled Ion-Electron Transfer.” *Electrochimica Acta* 367 (2021).
     - \[4\] Bai, P., M. Z. Bazant, et al, "Transition of Lithium Growth Mechanisms in Liquid Electrolytes." *Energy Env. Sci.* 10  (2016).
     - \[5\] Fu, Y., M. Z. Bazant, et al, “Heterogeneous Electrocatalysis in Porous Cathodes of Solid Oxide Fuel Cells.” *Electrochimica Acta* 159 (2015).
     - \[6\] Braff, W., C. R. Buie, and M. Z. Bazant, "Boundary Layer Analysis of Membraneless Electrochemical Cells." *J. Electrochem. Soc*. 160 (2013).
-    - \[7\] Smith, R. B., and M. Z. Bazant, “{{% resource_link "07c709df-9437-40c7-9cb6-efbdbc1f27e4" "Multiphase Porous Electrode Theory" %}}.” *J. Electrochem. Soc.* 164 (2017).
+    - \[7\] Smith, R. B., and M. Z. Bazant, “[Multiphase Porous Electrode Theory](https://iopscience.iop.org/article/10.1149/2.0171711jes).” *J. Electrochem. Soc.* 164 (2017).
 
 The readings in **bold** are required.
 
