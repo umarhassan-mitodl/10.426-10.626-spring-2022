@@ -28,7 +28,6 @@
     "website": "electrochemical-energy-systems"
   },
   "course_title": "Electrochemical Energy Systems",
-  "hide_download": true,
   "course_description": "This course introduces electrochemical energy systems from the perspective of thermodynamics, kinetics, and transport. It surveys analysis and design of electrochemical reactions and processes by integrating chemical engineering fundamentals with knowledge from diverse fields, including chemistry, electrical engineering, and materials science. It also includes applications to fuel cells, electrolyzers, and batteries. Students taking graduate version complete additional assignments.",
   "department_numbers": [
     "10"
@@ -39,7 +38,6 @@
     "content": "9b09e8d0-13a6-4369-89ba-63b5fa733045",
     "website": "electrochemical-energy-systems"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
